@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\NAHUEL\\DevLights\\Tareas\\Gestor de Productos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21723067-7EC7-4E5A-AFDA-EBB548915BD6}|Gestor de Productos.csproj|e:\\nahuel\\devlights\\tareas\\gestor de productos\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21723067-7EC7-4E5A-AFDA-EBB548915BD6}|Gestor de Productos.csproj|solutionrelative:productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21723067-7EC7-4E5A-AFDA-EBB548915BD6}|Gestor de Productos.csproj|e:\\nahuel\\devlights\\tareas\\gestor de productos\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21723067-7EC7-4E5A-AFDA-EBB548915BD6}|Gestor de Productos.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21723067-7EC7-4E5A-AFDA-EBB548915BD6}|Gestor de Productos.csproj|e:\\nahuel\\devlights\\tareas\\gestor de productos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21723067-7EC7-4E5A-AFDA-EBB548915BD6}|Gestor de Productos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21723067-7EC7-4E5A-AFDA-EBB548915BD6}|Gestor de Productos.csproj|e:\\nahuel\\devlights\\tareas\\gestor de productos\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21723067-7EC7-4E5A-AFDA-EBB548915BD6}|Gestor de Productos.csproj|solutionrelative:iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\escob\\.copilot\\plans\\plan-cs1022-se-esperaba-una-definicin-de-tipo-o-espacio-de-nombres,-o-el-fin-del-arch.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|MarkdownSecurePreview"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\NAHUEL\\DevLights\\Tareas\\Gestor de Productos\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "E:\\NAHUEL\\DevLights\\Tareas\\Gestor de Productos\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T19:15:27.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "E:\\NAHUEL\\DevLights\\Tareas\\Gestor de Productos\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductRepository.cs",
+              "ToolTip": "E:\\NAHUEL\\DevLights\\Tareas\\Gestor de Productos\\ProductRepository.cs",
+              "RelativeToolTip": "ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T19:30:41.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\NAHUEL\\DevLights\\Tareas\\Gestor de Productos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\NAHUEL\\DevLights\\Tareas\\Gestor de Productos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T19:50:09.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductoRepository.cs",
+              "DocumentMoniker": "E:\\NAHUEL\\DevLights\\Tareas\\Gestor de Productos\\IProductoRepository.cs",
+              "RelativeDocumentMoniker": "IProductoRepository.cs",
+              "ToolTip": "E:\\NAHUEL\\DevLights\\Tareas\\Gestor de Productos\\IProductoRepository.cs",
+              "RelativeToolTip": "IProductoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T19:29:40.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "plan-cs1022-se-esperaba-una-definicin-de-tipo-o-espacio-de-nombres,-o-el-fin-del-arch.md [Versi\u00F3n preliminar]",
+              "DocumentMoniker": "C:\\Users\\escob\\.copilot\\plans\\plan-cs1022-se-esperaba-una-definicin-de-tipo-o-espacio-de-nombres,-o-el-fin-del-arch.md",
+              "ToolTip": "C:\\Users\\escob\\.copilot\\plans\\plan-cs1022-se-esperaba-una-definicin-de-tipo-o-espacio-de-nombres,-o-el-fin-del-arch.md [Versi\u00F3n preliminar]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-28T20:09:17.093Z",
+              "EditorCaption": " [Versi\u00F3n preliminar]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
